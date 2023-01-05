@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import { useEffect, useState } from "react";
 import './App.css';
 import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
 import Dropdown from 'react-bootstrap/Dropdown';
 import DropdownButton from 'react-bootstrap/DropdownButton';
 
